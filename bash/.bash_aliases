@@ -1,0 +1,5 @@
+alias cl="clear"
+alias fa="cd ~/freezing-avenger/"
+alias fai="pip install ~/freezing-avenger"
+alias fas="vim ~/freezing-avenger/setup.py"
+eval "$(hub alias -s)"

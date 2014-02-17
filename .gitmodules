@@ -1,0 +1,21 @@
+[submodule "vim/bundle/syntastic"]
+	path = vim/bundle/syntastic
+	url = git@github.com:scrooloose/syntastic.git
+[submodule "im/bundle/nerdcommenter"]
+	path = im/bundle/nerdcommenter
+	url = git@github.com:scrooloose/nerdcommenter.git
+[submodule "vim/bundle/nerdcommenter"]
+	path = vim/bundle/nerdcommenter
+	url = git@github.com:scrooloose/nerdcommenter.git
+[submodule "vim/bundle/search-complete"]
+	path = vim/bundle/search-complete
+	url = git@github.com:vim-scripts/SearchComplete.git
+[submodule "vim/bundle/vim-coffee-script"]
+	path = vim/bundle/vim-coffee-script
+	url = git@github.com:kchmck/vim-coffee-script.git
+[submodule "vim/bundle/vim-golang"]
+	path = vim/bundle/vim-golang
+	url = git@github.com:jnwhiteh/vim-golang.git
+[submodule "vim/bundle/sensible"]
+	path = vim/bundle/sensible
+	url = git@github.com:tpope/vim-sensible.git
