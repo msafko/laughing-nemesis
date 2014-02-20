@@ -8,6 +8,7 @@ Various environment configurations
 Startup and Bash configurations
 ````bash
 ln -s laughing-nemesis/bash/bashrc ~/.bashrc
+````
 
 ## Vim
 
